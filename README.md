@@ -1,5 +1,5 @@
 # FirstJavaProj
-
+## Requirement
 * The goal is to create an Client for a Bank.
 * Used database to implement add, delete, select, update etc.
 * Some of these varified functions is kind of stupid. I missed JS.
@@ -9,4 +9,4 @@
 * Run with configuration of the JDBC.  
 
 ## UML Diagram
-* ![UML](https://github.com/Manimal120/Banque-de-Soleil/blob/main/uml.jpg)
+![UML](https://github.com/Manimal120/Banque-de-Soleil/blob/main/uml.jpg)
