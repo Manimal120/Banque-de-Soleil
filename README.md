@@ -6,4 +6,7 @@
 * Mainly used JavaSE + Mysql + JDBC + SWING.
 * Encapsulation needs to improve.
 * I'm trying to use Threads to improve it.
-* Run with configuration of the JDBC.
+* Run with configuration of the JDBC.  
+
+## UML Diagram
+* ![UML](https://github.com/Manimal120/Banque-de-Soleil/blob/main/uml.jpg)
